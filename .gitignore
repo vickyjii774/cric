@@ -1,0 +1,21 @@
+# Node Modules
+node_modules/
+
+# Production builds
+dist/
+dist-ssr/
+*.local
+
+# Local DB states
+data/*.json
+db/*.json
+
+# Env config
+.env
+
+# Logs and system
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
